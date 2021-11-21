@@ -1,0 +1,4 @@
+# 忽略指定文件夹
+node_modules/
+# 忽略名称中末尾为ignore的文件夹
+*ignore/
